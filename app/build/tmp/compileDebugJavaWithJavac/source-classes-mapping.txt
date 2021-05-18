@@ -1,0 +1,28 @@
+com/example/opiniaturistului/Database.java
+ com.example.opiniaturistului.Database
+com/example/opiniaturistului/BuildConfig.java
+ com.example.opiniaturistului.BuildConfig
+com/example/opiniaturistului/ModelClass.java
+ com.example.opiniaturistului.ModelClass
+com/example/opiniaturistului/v23.java
+ com.example.opiniaturistului.v23
+ com.example.opiniaturistului.v23$1
+ com.example.opiniaturistului.v23$2
+com/example/opiniaturistului/lista.java
+ com.example.opiniaturistului.lista
+ com.example.opiniaturistului.lista$1
+com/example/opiniaturistului/adaugaa.java
+ com.example.opiniaturistului.adaugaa
+com/example/opiniaturistului/v22.java
+ com.example.opiniaturistului.v22
+ com.example.opiniaturistului.v22$1
+ com.example.opiniaturistului.v22$2
+com/example/opiniaturistului/MainActivity.java
+ com.example.opiniaturistului.MainActivity
+ com.example.opiniaturistului.MainActivity$1
+ com.example.opiniaturistului.MainActivity$2
+ com.example.opiniaturistului.MainActivity$3
+com/example/opiniaturistului/cauta.java
+ com.example.opiniaturistului.cauta
+ com.example.opiniaturistului.cauta$1
+ com.example.opiniaturistului.cauta$2
